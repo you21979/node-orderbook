@@ -10,6 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/you21979/node-trade-orderbook.git"
   },
+  "dependencies": {
+    "bignumber.js": ""
+  },
   "devDependencies": {
     "okcoin.com": "",
     "mocha": "",
