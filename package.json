@@ -1,6 +1,6 @@
 {
-  "name": "trade-orderbook",
-  "version": "0.0.1",
+  "name": "@you21979/trade-orderbook",
+  "version": "0.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -15,6 +15,9 @@
   },
   "devDependencies": {
     "okcoin.com": "",
+    "zaif.jp": "",
+    "@you21979/poloniex.com": "",
+    "@you21979/bittrex.com": "",
     "mocha": "",
     "power-assert": ""
   },
