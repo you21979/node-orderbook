@@ -1,7 +1,7 @@
 {
   "name": "@you21979/trade-orderbook",
   "version": "0.0.2",
-  "description": "",
+  "description": "orderbook manager",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
